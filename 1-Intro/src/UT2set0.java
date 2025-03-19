@@ -71,4 +71,5 @@ public class UT2set0 {
 		}// endif syso
 		
 	} // end schoolTrip()
-}
+
+} // end class UT2set0
