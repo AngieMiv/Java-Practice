@@ -12,7 +12,12 @@ public class IntroMain {
 		//UT2set1.findMax(arrayIntsTest);
 		//UT2set1.findMin(arrayIntsTest);
 		//UT2set1.calcAvg(arrayIntsTest);
-		UT2set1.getRandomQuinielaResult();
+		//UT2set1.getRandomQuinielaResult();
+		//UT2set1.values(arrayIntsTest);
+		//UT2set1.incrementValues(arrayIntsTest);
+		//UT2set1.evens(arrayIntsTest);
+		//UT2set1.reversedStr();´
+		//UT2set1.reversedSplitStr();
 	}
 	
 }
