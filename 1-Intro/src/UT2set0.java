@@ -31,6 +31,7 @@ public class UT2set0 {
 		} else {
 			System.out.println("The triangle is Scalene");
 		}
+		sc.close();
 	}
 
 	/** 202 The principal of a school is organizing a field trip and needs to determine
@@ -69,6 +70,8 @@ public class UT2set0 {
 		} else {
 			System.out.println("Invalid number of students.");
 		}// endif syso
+		
+		sc.close();
 		
 	} // end schoolTrip()
 
