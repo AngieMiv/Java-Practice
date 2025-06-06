@@ -7,7 +7,6 @@ public class TuboCeramico extends Tuberia {
 	public TuboCeramico(String nombre, int unidades, double precio_ud,int temp) {
 		super(nombre, unidades, precio_ud);
 		this.temperatura = temp;
-
 	}
 
 	public int getTemperatura() {

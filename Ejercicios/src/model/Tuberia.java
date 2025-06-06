@@ -13,10 +13,10 @@ public abstract class Tuberia {
 		this.precio_ud = precio_ud;
 	}
 	
-
 	public abstract double ValorStock();
 	public abstract double calculaImpuesto();
 	
+	// getters y setters
 	public int getUnidades() {	return Unidades;	}
 	public void setUnidades(int unidades) {	Unidades = unidades;	}
 	
@@ -26,5 +26,4 @@ public abstract class Tuberia {
 	public String getMarca() {	return Marca;	}
 	public void setMarca(String nombre) {	Marca = nombre;	}
 	
-
 }

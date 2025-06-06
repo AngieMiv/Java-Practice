@@ -26,7 +26,6 @@ public class AppMain {
 		
 		ra7.informeStock(Partida);
 		ra7.informeImpuesto(Partida);
-
 		
 		System.out.println("Fin Aplicacion");
 

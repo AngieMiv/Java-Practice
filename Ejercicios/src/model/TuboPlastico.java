@@ -2,6 +2,7 @@ package model;
 
 public class TuboPlastico extends Tuberia {
 
+	@SuppressWarnings("unused")
 	private String Dureza;		// 25KP,50KP,100KP
 
 	public TuboPlastico(String nombre, int unidades, double precio_ud,String TCab) {

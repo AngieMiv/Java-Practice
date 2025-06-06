@@ -4,7 +4,7 @@ public class TuboAcero extends Tuberia {
 
 	private double Seccion;
 
-	public TuboAcero(String nombre, int unidades, double precio_ud,double seccion) {
+	public TuboAcero(String nombre, int unidades, double precio_ud, double seccion) {
 		super(nombre, unidades, precio_ud); // Usar superclase para inicializar
 		Seccion = seccion;
 	}
